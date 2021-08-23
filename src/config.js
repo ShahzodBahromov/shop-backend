@@ -1,5 +1,5 @@
 const host = 'localhost'
-const PORT = 4500
+const PORT = procses.env.PORT || 4500
 const PRIVATE_KEY = 'olma'
 
 export {
