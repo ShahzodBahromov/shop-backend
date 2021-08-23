@@ -1,0 +1,15 @@
+[
+    { "product_id": 1, "sub_category_id": 1, "model": "redmi", "product_name": "Redmi note 6 pro", "color": "black", "price": "150" },
+    { "product_id": 2, "sub_category_id": 1, "model": "samsung", "product_name": "Galaxy 7", "color": "silver", "price": "300" },
+
+    { "product_id": 3, "sub_category_id": 3, "model": "LG", "product_name": "XDL 2340", "color": "black", "price": "500"},
+    { "product_id": 4, "sub_category_id": 3, "model": "SONY", "product_name": "sony 234", "color": "grean", "price": "450"},
+
+    { "product_id": 5, "sub_category_id": 4, "model": "hp", "product_name": "hp core i7", "color": "black", "price": "980"},
+    { "product_id": 6, "sub_category_id": 4, "model": "Lenova", "product_name": "Lenova core i7", "color": "red", "price": "870"},
+
+    { "product_id": 7, "sub_category_id": 2, "model": "Apple", "product_name": "Apple 6", "color": "blue", "price": "500"},
+    { "product_id": 8, "sub_category_id": 2, "model": "miBand", "product_name": "miBand3", "color": "grean", "price": "50"}
+
+
+]
